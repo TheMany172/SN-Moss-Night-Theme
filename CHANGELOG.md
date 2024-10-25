@@ -1,3 +1,3 @@
 ### Features
 
-* add Moss theme 
+* add Moss night theme 
